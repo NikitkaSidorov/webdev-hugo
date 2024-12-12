@@ -16,10 +16,10 @@ featured_image = 'epace.jpg'
 
 Удобство подключаемого электрического гибрида (PHEV). Произведено компанией Jaguar.
 
-![poster2](https://nikitkasidorov.github.io/webdev-hugo/f_pace_poster2.jpg)
+![poster2](https://nikitkasidorov.github.io/webdev-hugo/e_pace_poster2.jpg)
 
 СИЛА И ЛОВКОСТЬ.
 
 Впечатляющий внешний вид. Изысканный интерьер. Непревзойденная производительность. Бескомпромиссная эффективность.
 
-![poster3](https://nikitkasidorov.github.io/webdev-hugo/f_pace_poster3.jpg)
+![poster3](https://nikitkasidorov.github.io/webdev-hugo/e_pace_poster3.jpg)
