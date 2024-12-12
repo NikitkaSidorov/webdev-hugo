@@ -10,16 +10,16 @@ featured_image = 'epace.jpg'
 
 Бесшовное подключение. Новейшие технологии полностью в Вашем распоряжении.
 
-![poster1](https://ltdfoto.ru/images/2024/10/02/SNIMOK-EKRANA-2024-10-02-230253-min.png)
+![poster1](https://nikitkasidorov.github.io/webdev-hugo/e_pace_poster1.jpg)
 
 УВЛЕКАТЕЛЬНО ВОДИТЬ, С ЭТОЙ МАШИНОЙ ЛЕГКО ЖИТЬ.
 
 Удобство подключаемого электрического гибрида (PHEV). Произведено компанией Jaguar.
 
-![poster1](https://ltdfoto.ru/images/2024/10/02/X54024GL_303101393_037.jpg)
+![poster2](https://nikitkasidorov.github.io/webdev-hugo/f_pace_poster2.jpg)
 
 СИЛА И ЛОВКОСТЬ.
 
 Впечатляющий внешний вид. Изысканный интерьер. Непревзойденная производительность. Бескомпромиссная эффективность.
 
-![poster1](https://ltdfoto.ru/images/2024/10/02/X54024GL_303101393_003_PR.jpg)
+![poster3](https://nikitkasidorov.github.io/webdev-hugo/f_pace_poster3.jpg)
